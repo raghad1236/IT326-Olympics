@@ -10,19 +10,30 @@ Source:
 The dataset was obtained from Kaggle: https://www.kaggle.com/datasets/stefanydeoliveira/summer-olympics-medals-1896-2024/data
 
 
+
 Attributes description:
 
 The dataset consists of 11 attributes:
+
 Player_id: Unique identifier for each athlete.
+
 Name: Name of the athlete.
+
 Sex: Gender of the athlete (Male (M) /Female (F)).
+
 Team: Country the athlete represented.
+
 NOC: National Olympic Committee code for the country.
+
 Year: Year of the Olympic Games.
+
 Season: Season of the Olympic Games (Summer).
+
 City: Host city of the Olympic Games.
+
 Sport: Sport category in which the athlete competed.
+
 Event: Specific event within the sport.
+
 Medal: Type of medal awarded (Gold, Silver, Bronze) or "No medal" if not awarded.
 
-Group 3, Section 71681
