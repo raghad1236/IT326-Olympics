@@ -7,19 +7,25 @@ In this project, our primary goal is to use the Summer Olympic Medals dataset to
 
 Source: 
 
-The dataset was obtained from Kaggle: https://www.kaggle.com/datasets/stefanydeoliveira/summer-olympics-medals-1896-2024/data
+The dataset was obtained from Kaggle: (https://www.kaggle.com/datasets/bhanupratapbiswas/olympic-data)
 
 
 
 Attributes description:
 
-The dataset consists of 11 attributes:
+The dataset consists of 14 attributes:
 
 Player_id: Unique identifier for each athlete.
 
 Name: Name of the athlete.
 
 Sex: Gender of the athlete (Male (M) /Female (F)).
+
+Age: Age of the athlete.
+
+Height: height of the athlete.
+
+Weight: weight of the athlete.
 
 Team: Country the athlete represented.
 
