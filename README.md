@@ -13,7 +13,7 @@ The dataset was obtained from Kaggle: (https://www.kaggle.com/datasets/bhanuprat
 
 Attributes description:
 
-The dataset consists of 14 attributes:
+The dataset consists of 15 attributes:
 
 Player_id: Unique identifier for each athlete.
 
@@ -30,6 +30,8 @@ Weight: weight of the athlete.
 Team: Country the athlete represented.
 
 NOC: National Olympic Committee code for the country.
+
+Games: Year and Season of the Olympic Games.
 
 Year: Year of the Olympic Games.
 
