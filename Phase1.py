@@ -12,13 +12,17 @@ print("\nData types:\n", df.dtypes)
 # Display the number of attributes (columns) and objects (rows)
 print("\nNumber of attributes:", len(df.columns))
 print("Number of objects:", len(df))
+
+
+
+
+
+'''
 Attribute names:
  Index(['ID', 'Name', 'Sex', 'Age', 'Height', 'Weight', 'Team', 'NOC', 'Games',
        'Year', 'Season', 'City', 'Sport', 'Event', 'Medal'],
       dtype='object')
 
-
-'''
 Data types:
 ID          int64
 Name       object
