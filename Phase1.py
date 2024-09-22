@@ -18,9 +18,9 @@ Attribute names:
       dtype='object')
 
 
-
+'''
 Data types:
- ID          int64
+ID          int64
 Name       object
 Sex        object
 Age       float64
@@ -39,3 +39,4 @@ dtype: object
 
 Number of attributes: 15
 Number of objects: 70000 
+'''
