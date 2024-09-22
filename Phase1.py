@@ -17,4 +17,25 @@ Attribute names:
        'Year', 'Season', 'City', 'Sport', 'Event', 'Medal'],
       dtype='object')
 
-  
+
+
+Data types:
+ ID          int64
+Name       object
+Sex        object
+Age       float64
+Height    float64
+Weight    float64
+Team       object
+NOC        object
+Games      object
+Year        int64
+Season     object
+City       object
+Sport      object
+Event      object
+Medal      object
+dtype: object
+
+Number of attributes: 15
+Number of objects: 70000 
